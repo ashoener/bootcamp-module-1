@@ -12,7 +12,9 @@ To use this project, you may review the commit logs to see how elements have bee
 
 ## Credits
 
-<!-- TODO - Leaving this here for if/when I need it -->
+[Christopher Bartlett](https://github.com/cbbartlett)
+[Aeryk Andrews](https://github.com/Acolyte03)
+[Devon McFarlen](https://github.com/DevonMcfarlen)
 
 ## License
 
