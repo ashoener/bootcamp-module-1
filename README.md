@@ -6,7 +6,7 @@ This project is a task to refactor an example website to better meet accessibili
 
 ## Usage
 
-To use this project, you may review the commit logs to see how elements have been changed, in an effort to be more accessible.
+To use this project, you may review the commit logs to see how elements have been changed, in an effort to be more accessible. To see the live website, [click here](https://ashoener.github.io/code-refactor-challenge/).
 
 ![Website Screenshot](assets/images/screenshot.png)
 
