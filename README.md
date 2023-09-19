@@ -13,8 +13,11 @@ To use this project, you may review the commit logs to see how elements have bee
 ## Credits
 
 [Christopher Bartlett](https://github.com/cbbartlett)
+
 [Aeryk Andrews](https://github.com/Acolyte03)
+
 [Devon McFarlen](https://github.com/DevonMcfarlen)
+
 [Logan Dolence](https://github.com/ltdolence)
 
 ## License
