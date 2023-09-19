@@ -19,4 +19,4 @@ To use this project, you may review the commit logs to see how elements have bee
 
 ## License
 
-Please refer to the LICENSE in the repo.
+Please refer to the [LICENSE](/LICENSE) in the repo.
