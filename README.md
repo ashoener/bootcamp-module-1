@@ -8,6 +8,8 @@ This project is a task to refactor an example website to better meet accessibili
 
 To use this project, you may review the commit logs to see how elements have been changed, in an effort to be more accessible.
 
+![Website Screenshot](assets/images/screenshot.png)
+
 ## Credits
 
 <!-- TODO - Leaving this here for if/when I need it -->
