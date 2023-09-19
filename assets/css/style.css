@@ -22,7 +22,7 @@ header h1 {
     "Lucida Sans", Arial, sans-serif;
 }
 
-header h1 .seo {
+header h1 .logo-darkened {
   color: #d9dcd6;
 }
 
@@ -33,11 +33,11 @@ header .navbar {
   font-size: 20px;
 }
 
-header .navbar ul {
+header .navbar .navbar-links {
   list-style-type: none;
 }
 
-header .navbar ul li {
+header .navbar .navbar-links li {
   display: inline-block;
   margin-left: 25px;
 }
