@@ -26,6 +26,7 @@ header h1 {
     "Lucida Sans", Arial, sans-serif;
 }
 
+/* Used to make the "seo" in Horiseon stand out */
 header h1 .logo-darkened {
   color: #d9dcd6;
 }
@@ -66,6 +67,7 @@ header .navbar .navbar-links li a {
   margin-left: 20px;
 }
 
+/* Styling for each service item */
 .services-item {
   margin-bottom: 20px;
   padding: 50px;
@@ -78,6 +80,7 @@ header .navbar .navbar-links li a {
   max-height: 200px;
 }
 
+/* Service item images should display on one side of the text */
 .services-item img.float-left {
   float: left;
   margin-right: 25px;
@@ -103,6 +106,7 @@ header .navbar .navbar-links li a {
   background-color: #2589bd;
 }
 
+/* Basic styling for each benefit item */
 .benefit-item {
   margin-bottom: 32px;
   color: #ffffff;
